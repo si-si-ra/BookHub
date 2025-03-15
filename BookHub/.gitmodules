@@ -1,0 +1,3 @@
+[submodule "bookapp"]
+	path = bookapp
+	url = https://github.com/si-si-ra/BookHub.git
